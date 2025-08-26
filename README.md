@@ -1,4 +1,3 @@
-```markdown
 # Yii2 Rule Helper
 
 A lightweight helper module for Yii2 framework that provides utility methods for working with model validation rules and validators.
@@ -128,4 +127,3 @@ If you have any questions or issues, please create an issue on GitHub.
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-```
